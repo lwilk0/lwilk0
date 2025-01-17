@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Luke Wilkinson</h1>
 <h3 align="center">A rust and bash developer from Scotland</h3>
-I’m currently working on **[fmp](https://github.com/TT1882/fmp), a lightweight password manager for linux**
+I’m currently working on [fmp](https://github.com/TT1882/fmp), a lightweight password manager for linux
 
 I’m continuing to learn **rust**</p>
 
