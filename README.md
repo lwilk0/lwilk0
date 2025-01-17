@@ -28,11 +28,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+
+  ###
+  
+  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tt1882&show_icons=true&theme=dark&locale=en&layout=compact" alt="tt1882" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tt1882&show_icons=true&theme=dark&locale=en" alt="tt1882" /></p>
 </div>
-
-###
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tt1882&show_icons=true&theme=dark&locale=en&layout=compact" alt="tt1882" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tt1882&show_icons=true&theme=dark&locale=en" alt="tt1882" /></p>
