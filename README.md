@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="center">I code with:</h2>
+<h2 align="center">I Code With:</h2>
 
 ###
 
@@ -28,6 +28,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+
+  ###
+
+  <h2 align="center">Stats:</h2>
 
   ###
   
