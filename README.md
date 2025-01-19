@@ -35,6 +35,9 @@
 
   ###
   
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tt1882&show_icons=true&theme=dark&locale=en&layout=compact" alt="tt1882" /></p>
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tt1882&show_icons=true&theme=dark&locale=en" alt="tt1882" /></p>
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tt1882&show_icons=true&locale=en&layout=compact" alt="tt1882" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tt1882&show_icons=true&locale=en" alt="tt1882" /></p>
+
 </div>
