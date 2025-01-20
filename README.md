@@ -12,6 +12,3 @@ I am a Rust and Shell software engineer from Scotland. I have been programing fo
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tt1882&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
