@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am a Rust and Shell software engineer from Scotland. I have been programing for 7 years, originally starting off with high level languages like Python, but soon moved to low-level languages such as Rust and C++. I also have experience with Linux server management and databases.
-- I am currently working on fmp, a password manager written in rust.  
+- I am currently working on (fmp)[https://github.com/TT1882/Forgot-My-Password], a password manager written in rust.  
 - I am currently learning Qt
 - I am looking to contribute in open-source projects 
 
