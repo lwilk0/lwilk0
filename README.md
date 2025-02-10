@@ -16,4 +16,3 @@ I am a Rust and Shell software engineer from Scotland. I have been programing fo
 ![](https://github-readme-stats.vercel.app/api?username=tt1882&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tt1882&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tt1882&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<!-- 
