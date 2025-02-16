@@ -6,7 +6,7 @@ I am a Rust and Shell software engineer from Scotland. I have been programing fo
 
 
 ## 🌐 Contact Me:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/tt1882.bsky.social) [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=fff)](mailto:wilkinsonluke@proton.me)
+[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=fff)](mailto:wilkinsonluke@proton.me)
 
 **wilkinsonluke@proton.me**
 
