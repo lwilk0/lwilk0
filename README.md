@@ -5,7 +5,7 @@ I am a Rust and Shell software engineer from Scotland. I have been programing fo
 - I am looking to contribute in open-source projects.
 
 
-## 🌐 Contact Me:
+# 🌐 Contact Me:
 [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=fff)](mailto:wilkinsonluke@proton.me)
 
 **wilkinsonluke@proton.me**
