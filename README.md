@@ -1,4 +1,4 @@
-# Due to Microsoft making GitHub part of CoreAI, I have moved to [GitLab](https://gitlab.com/lwilk0)
+# Due to Microsoft making GitHub part of CoreAI, I have moved to [Codeberg](https://codeberg.org/lwilko).
 
 # About Me:
 I am a Rust and Shell software engineer from Scotland. I have been programing for 7 years, originally starting off with high level languages like Python, but soon moved to low-level languages such as Rust and C++. I also have experience with Linux server management and databases.
